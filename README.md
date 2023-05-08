@@ -1,16 +1,14 @@
 <h2 align="center"> Churn prediction project </h2>
 
-<p align="center"><a href="https://github.com/anilembel/Churn_Prediction_Becode">
-<img src=".streamlit/BeCode_color.png" alt="Logo"></a></p>
+<p align="center"><a href="https://github.com/vdbromain/Churn_Prediction">
+<img src=".streamlit/img/BeCode_color.png" alt="Logo"></a></p>
 <h3 align="center">First project in our AI specialization at <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3><br><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <img title="" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="">
 
-## ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
+ ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Description
 
@@ -102,14 +100,14 @@ In this folder, we worked on 2 models: one for classification and another one fo
 <i>clustering.py</i> defines 6 different profiles of customer and their probability to churn.
 </div>
 
-<img src=".streamlit/clustering_illu.png" alt="illustration of the clustering model">
+<img title="" src=".streamlit/img/clustering_illu.png" alt="illustration of the clustering model">
 
 #### vizualisations
 
 We used Tableau to create a dashboard which allows us to understand customer's profiles.
 It shows the characteristics parameters of attrited customers and the KPI of the data (in numerical form).
 
-<img title="" src="file:///Users/cecilewinand/Desktop/Churn_Prediction_Becode-Complet-Lundi/visualizations/Images/0.2-Dashboard Analytics.png" alt="dashboard analytics">
+<img title="" src="./visualizations/Images/0.2-Dashboard Analytics.png" alt="dashboard analytics">
 
 ## Results
 
