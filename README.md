@@ -1,13 +1,11 @@
-<h2 align="center"> Churn prediction project </h2>
+<h2 align="center"> Churn Prediction Project </h2>
 
 <p align="center"><a href="https://github.com/vdbromain/Churn_Prediction">
 <img src=".streamlit/img/BeCode_color.png" alt="Logo"></a></p>
 <h3 align="center">First project in our AI specialization at <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3><br><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 <img title="" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="">
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Description
